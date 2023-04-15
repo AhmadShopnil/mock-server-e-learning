@@ -1,0 +1,16 @@
+{
+  "name": "lws-json-server-elearning",
+  "description": "Example in memory elearning api with json-server by Learn with shopnil",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.1",
+    "json-server-auth": "^2.1.0"
+  },
+  "keywords": [],
+  "author": "Abu Shaleh ahamad Shopnil",
+  "license": "ISC"
+}
